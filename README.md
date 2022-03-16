@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @pietras333
 - 👀 I’m interested in Front-End development
-- 🌱 I’m currently learning HTML, CSS, JS
-- 💞️ I’m looking to collaborate on jd
+- 🌱 I’m currently learning HTML, CSS, JS & React
+- 💞️ I’m looking to collaborate on jasperHm
 - 📫 How to reach me ...
 
 <!---
