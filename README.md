@@ -2,22 +2,6 @@
 
 ###
 
-<p align="left">My name is Piotr and I'm from Poland.📕</p>
-
-###
-
-<h2 align="left">About Me</h2>
-
-###
-
-<p align="left">✨ Creating bugs since 2021.</p>
-
-###
-
-<h2 align="center">My activities</h2>
-
-###
-
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app?username=pietras333&theme=darkhub&column=-1&row=1&margin-w=8&margin-h=8&no-bg=true&no-frame=true&order=4" height="150" alt="trophy graph" /> <br>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=pietras333&radius=16&theme=github-dark&area=true&order=5&hide_border=true" height="300" alt="activity-graph graph" /> <br>
