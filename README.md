@@ -9,9 +9,9 @@
 
 ###
 
-<div align="center">
-  ![](https://komarev.com/ghpvc/?username=pietras333&color=32CD32)
-</div>
+
+  ![](https://komarev.com/ghpvc/?username=pietras333&color=32CD32&style=for-the-badge)
+
 
 ###
 
