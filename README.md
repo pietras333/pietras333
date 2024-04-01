@@ -10,7 +10,7 @@
 ###
 
 <div align="center">
-  ![](https://komarev.com/ghpvc/?username=pietras333&color=brightgreen)
+  ![](https://komarev.com/ghpvc/?username=pietras333&color=32CD32)
 </div>
 
 ###
