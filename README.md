@@ -9,7 +9,9 @@
 
 ###
 
-![](https://komarev.com/ghpvc/?username=pietras333)
+<div align="center">
+  ![](https://komarev.com/ghpvc/?username=pietras333&color=brightgreen)
+</div>
 
 ###
 
