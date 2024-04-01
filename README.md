@@ -1,4 +1,4 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+<h1 align="left">Hey 👋 What's up?</h1> ![](https://komarev.com/ghpvc/?username=pietras333&color=32CD32&style=for-the-badge&label=My+profile+has+visited)
 
 ###
 
@@ -6,12 +6,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=pietras333&radius=16&theme=github-dark&area=true&order=5&hide_border=true" height="300" alt="activity-graph graph" /> <br>
   <img src="https://streak-stats.demolab.com?user=pietras333&locale=en&mode=weekly&theme=github_dark&hide_border=true&border_radius=5&date_format=j%20M%5B%20Y%5D&order=3" height="150" alt="streak graph"  />
 </div>
-
-###
-
-
-  ![](https://komarev.com/ghpvc/?username=pietras333&color=32CD32&style=for-the-badge&label=My+profile+has+visited)
-
 
 ###
 
