@@ -46,7 +46,9 @@
 ###
 
 <div align="center">
-  <img src="https://gists-readme.yizack.com/api?user=pietras333&title=&n=&theme=dark"></img>
+  <a href="https://gist.github.com/pietras333">
+    <img src="https://gists-readme.yizack.com/api?user=pietras333&title=&n=&theme=dark"></img>
+  </a>
 </div>
 
 ###
