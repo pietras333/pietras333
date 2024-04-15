@@ -46,7 +46,7 @@
 ###
 
 <div align="center">
-  (https://gists-readme.yizack.com/api/pin?user=pietras333&id=8a84dabef525fed523573b47258880e0&owner=true&theme=dark)](https://gist.github.com/Yizack/8a84dabef525fed523573b47258880e0)
+  <img src="https://gists-readme.yizack.com/api?user=pietras333&title=&n=&theme=dark"></img>
 </div>
 
 ###
