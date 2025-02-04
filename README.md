@@ -2,7 +2,7 @@
 
 ###
 
-![Snake animation](https://raw.githubusercontent.com/{pietras333}/{pietras333}/output/github-contribution-grid-snake-dark.svg)
+![Snake animation](https://raw.githubusercontent.com/pietras333/pietras333/output/github-contribution-grid-snake-dark.svg)
 
 ###
 
