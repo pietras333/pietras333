@@ -1,13 +1,10 @@
 <h1 align="left">Hey 👋 What's up?</h1> 
-
+###
 ![](https://komarev.com/ghpvc/?username=pietras333&color=1f6feb&style=for-the-badge&label=My+profile+has+visited)
-
 ###
-![snake gif](https://github.com/pietras333/pietras333/blob/output/github-contribution-grid-snake-dark.svg)
+![snake gif](https://github.com/pietras333/pietras333/blob/output/github-contribution-grid-snake.gif)
 ###
-
 <h2 align="center">I code with</h2>
-
 ###
 
 <div align="center">
