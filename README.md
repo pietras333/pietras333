@@ -4,9 +4,9 @@
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pietras333&radius=16&theme=github-dark&area=true&order=5&hide_border=true" height="300" alt="activity-graph graph" /> <br>
-</div>
+
+<img src="https://raw.githubusercontent.com/pietras333/pietras333/output/snake.svg" alt="Snake animation" />
+
 
 ###
 
