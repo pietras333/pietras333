@@ -3,9 +3,7 @@
 ![](https://komarev.com/ghpvc/?username=pietras333&color=1f6feb&style=for-the-badge&label=My+profile+has+visited)
 
 ###
-
-![snake gif](https://github.com/pietras333/pietras333/blob/output/github-contribution-grid-snake.gif)
-
+![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake-dark.svg)
 ###
 
 <h2 align="center">I code with</h2>
